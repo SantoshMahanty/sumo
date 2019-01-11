@@ -5,3 +5,4 @@ java
 selenium
 mysql
 s/w testing
+mangoDB
