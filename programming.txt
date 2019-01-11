@@ -1,0 +1,7 @@
+welcome to sumo tutorials
+
+
+java
+selenium
+mysql
+s/w testing
